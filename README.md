@@ -50,8 +50,10 @@ I believe good machine learning is not just about building accurate models, but 
 
 ### Data Visualization & Business Intelligence
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ### Tools & Development
@@ -74,7 +76,7 @@ End-to-end machine learning pipeline for loan approval prediction featuring adva
 
 Python • Scikit-learn • Pandas • NumPy • Matplotlib
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/dhruvarora2004/CreditWise-Loan-Approval-System">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -90,7 +92,7 @@ Regression-based predictive analytics project comparing multiple machine learnin
 
 Python • Scikit-learn • Pandas • NumPy
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/dhruvarora2004/student-performance-analysis">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -131,7 +133,7 @@ Power BI • DAX • Excel
 </td>
 </tr>
 </table>
----
+
 
 
 
@@ -142,16 +144,6 @@ Power BI • DAX • Excel
 - 📊 Strengthening Data Structures, SQL, and Python for technical interviews.
 - 💼 Preparing for entry-level AI/ML Engineer opportunities.
 
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvarora2004&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvarora2004&layout=compact&hide_border=true&theme=github_dark_dimmed"/>
-
-</p>
 
 
 
