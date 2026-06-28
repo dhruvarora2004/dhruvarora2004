@@ -21,7 +21,7 @@ Applying Mathematics, Statistics, and Machine Learning to build intelligent, dat
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1N0FPnGvk2T_JsUVamfY9SQ3t950zCu_0/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -110,9 +110,7 @@ Interactive Power BI dashboard built using 200K+ retail transactions to uncover 
 
 Power BI • Python • Excel
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
+
 
 </td>
 
@@ -126,9 +124,7 @@ Business Intelligence dashboard designed using Star Schema modelling with intera
 
 Power BI • DAX • Excel
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
-</a>
+
 
 </td>
 </tr>
@@ -171,7 +167,7 @@ I'm always interested in discussing Machine Learning, Data Science, analytics, a
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_GOOGLE_DRIVE_RESUME">
+<a href="https://drive.google.com/file/d/1N0FPnGvk2T_JsUVamfY9SQ3t950zCu_0/view?usp=sharing">
 <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
